@@ -1,5 +1,7 @@
 # dcel inode
 
+![Travis CI Status](https://api.travis-ci.org/element0/dcel-inode.svg?branch=master)
+
 "Domain Cell" is a data primative.  Use it for an inode or a general node to keep a data structure.
 
 Describes both a file and a directory.
