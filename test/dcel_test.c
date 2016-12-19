@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "../src/domaincell.h"
+#include "../src/dcel.h"
 
 int main ( int argc, char * argv[] )
 {

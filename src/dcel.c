@@ -5,8 +5,8 @@
 #include <string.h>
 #include "gob.h"
 
-#include "domaincell.h"
-#include "domaincell_callbacks.c"
+#include "dcel.h"
+#include "dcel_callbacks.c"
 
 
 
