@@ -1,4 +1,7 @@
 /*_HIENA_ADDR_T_H_*/
+/* Copyright (c) 2016 Raygan Henley */
+/* see "LICENSE" */
+
 #ifndef _HIENA_ADDR_T_H_
 #define _HIENA_ADDR_T_H_
 

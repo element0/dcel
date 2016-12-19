@@ -1,6 +1,9 @@
 #ifndef _HIENA_DOMAINCELL_H_
 #define _HIENA_DOMAINCELL_H_
 
+/* Copyright (c) 2016 Raygan Henley */
+/* see "LICENSE" */
+
 /** @file domaincell.h
 
   Hiena Domain Cell Structure 

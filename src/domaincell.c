@@ -1,3 +1,6 @@
+/* Copyright (c) 2016 Raygan Henley */
+/* see "LICENSE" */
+
 #include <stdlib.h>
 #include <string.h>
 #include "gob.h"

@@ -2,6 +2,9 @@
 #ifndef _RAYGAN_GOB_H_
 #define _RAYGAN_GOB_H_
 
+/* Copyright (c) 2016 Raygan Henley */
+/* see "LICENSE" */
+
 #include <sys/types.h>
 
 /** \file gob.h

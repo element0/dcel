@@ -1,4 +1,7 @@
 /* HIENA_BOUNDS_T_H */
+/* Copyright (c) 2016 Raygan Henley */
+/* see "LICENSE" */
+
 #ifndef _HIENA_BOUNDS_T_H_
 #define _HIENA_BOUNDS_T_H_
 

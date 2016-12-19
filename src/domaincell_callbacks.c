@@ -1,3 +1,6 @@
+/* Copyright (c) 2016 Raygan Henley */
+/* see "LICENSE" */
+
 #include "domaincell.h"
 
 int dcel_try_lock( dcel * d, const char * mode, void * lock_holder ) {
