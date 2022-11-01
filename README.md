@@ -6,6 +6,8 @@
 
 Describes both a file and a directory.
 
+[October 2022 - This has been rebuilt in Python and JavaScript, as libraries used by Laydbug.io. The dev repos are currently private.]
+
 
 Has these general properties:
 - provides a link to a storage domain (file)
